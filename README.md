@@ -1,4 +1,4 @@
-This is a program that I made this years that implements some basic PANDAS functions to manupulate data.
+This is a program that I made this year that implements some basic PANDAS functions to manupulate data.
 
 This program reads in a .CSV file which is linked to my drive. It then has 2 functions that use the dataset.
 
